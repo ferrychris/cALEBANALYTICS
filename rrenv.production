@@ -1,0 +1,4 @@
+VITE_OPENAI_API_KEY=your-openai-key-here
+VITE_SUPABASE_URL=your-supabase-url-here
+VITE_SUPABASE_ANON_KEY=your-supabase-anon-key-here
+VITE_STRIPE_PUBLIC_KEY=your-stripe-public-key-here
